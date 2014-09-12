@@ -22,7 +22,7 @@ public class SortArrayOfStrings {
 			System.out.println(strArray[i]);
 		}
 		
-		input.close();
+		input.close();//input.close();
 		
 	}
 }
